@@ -1,7 +1,7 @@
 # World Beauty
 
 <p align="center">
-      <img src="/ECONNECT.png" alt="logo">
+      <img src="/wb_logo.png" alt="logo">
 
 <span id="topo">
 <p align="center">
