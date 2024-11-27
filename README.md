@@ -8,7 +8,7 @@
   
 
 ## 🎯 Atividades <a id="objetivo"></a>
-| Atividade | Repositório | Link |
+| Atividade | Atividade | Link |
 | ---- | ------ | -------- |
 | 1 | ATV-I | <a href="https://github.com/matmarquesx/World-Beauty/tree/ATV-I" target="_blank">Link</a> |
 | 2 | ATV-II | <a href="https://github.com/matmarquesx/World-Beauty/tree/ATV-II" target="_blank">Link</a> |
