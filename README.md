@@ -8,13 +8,13 @@
   
 
 ## 🎯 Atividades <a id="objetivo"></a>
-| Atividade | Repositório | Link |
+| Atividade | Atividade | Link |
 | ---- | ------ | -------- |
-| 1 | ------ | ❌ |
-| 2 | ------ | ❌ |
-| 3 | ------ | ❌ |
-| 4 | ------ | ❌ |
-| 5 | ------ | ❌ |
+| 1 | ATV-I | <a href="https://github.com/matmarquesx/World-Beauty/tree/ATV-I" target="_blank">Link</a> |
+| 2 | ATV-II | <a href="https://github.com/matmarquesx/World-Beauty/tree/ATV-II" target="_blank">Link</a> |
+| 3 | ATV-III | <a href="https://github.com/matmarquesx/World-Beauty/tree/ATV-III" target="_blank">Link</a> |
+| 4 | ATV-IV | <a href="https://github.com/matmarquesx/World-Beauty/tree/ATV-IV" target="_blank">Link</a> |
+| 5 | ATV-V | <a href="https://github.com/matmarquesx/World-Beauty/tree/ATV-V" target="_blank">Link</a> |
 
 
 ## ⚙ Desenvolvedor <a id="equipe"></a>
