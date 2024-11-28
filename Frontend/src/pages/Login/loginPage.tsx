@@ -58,10 +58,17 @@ export default function LoginPage() {
               style={{ borderRadius: "1rem", maxWidth: "500px" }}
             >
               <MDBCardBody className="p-5 w-100 d-flex flex-column">
-                <h2 className="fw-bold mb-1 text-center">Realizar Login</h2>
+                <img
+                  src="/wb_logo.png"
+                  alt="Logo"
+                  className="mb-3 mx-auto"
+                  style={{ maxWidth: "150px" }}
+                />
+
                 <p className="text-white-50 mb-1">
                   Por favor, informe seu e-mail e senha!
                 </p>
+
 
                 <MDBInput
                   required
